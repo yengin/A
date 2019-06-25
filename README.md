@@ -1,1 +1,1 @@
-git remote add githubDepo https://github.com/gokhanyavas/test.git
+git remote add githubDepo https://github.com/yengin/A/edit/master/README.md
